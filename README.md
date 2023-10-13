@@ -1,5 +1,5 @@
 # ICS 212
-## Midterm1- Week 8
+## Midterm1 (makeup) - Week 8
 
 ### Instructions:
 - Update the program files following instructions provided in Midterm_Week8.pdf (uploaded on Laulima) and in the program comments.
